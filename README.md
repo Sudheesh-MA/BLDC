@@ -1,4 +1,5 @@
 # Design studio one page template - ARCHIVED
+# Test studio for BLDC demo
 
 Flat and responsive website template, designed by [cssauthor](http://www.cssauthor.com/) and coded by [Maxim Orlov](https://github.com/orlovmax). 
 
